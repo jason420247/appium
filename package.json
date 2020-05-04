@@ -106,7 +106,7 @@
     "handlebars": "^4.0.10",
     "mocha": "5.x",
     "pre-commit": "1.x",
-    "replace-ext": "^1.0.0",
+    "replace-ext": "^2.0.0",
     "sinon": "^6.0.0",
     "validate.js": "^0.12.0",
     "wd": "^1.10.0",

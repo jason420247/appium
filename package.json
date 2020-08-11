@@ -107,7 +107,7 @@
     "mocha": "5.x",
     "pre-commit": "1.x",
     "replace-ext": "^1.0.0",
-    "sinon": "^6.0.0",
+    "sinon": "^9.0.3",
     "validate.js": "^0.12.0",
     "wd": "^1.10.0",
     "yaml-js": "^0.2.0"
